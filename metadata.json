@@ -1,0 +1,5 @@
+{
+  "name": "CANSLIM India Analyzer",
+  "description": "An AI-powered stock analyzer for Indian markets based on William J. O'Neil's CANSLIM methodology. It uses real-time search to evaluate stocks against key growth criteria.",
+  "requestFramePermissions": []
+}
